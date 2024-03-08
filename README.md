@@ -20,9 +20,12 @@
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.O21.KHCL
 * **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: 
-- PGS.TS. **Lê Đình Duy** 
-- ThS. **Phạm Nguyễn Trường An**
+* **Giảng viên:**
+ 
+| STT | Họ tên | Email |
+| :---: | --- | --- |
+| 1 | **PGS.TS. Lê Đình Duy** | *duyld@uit.edu.vn* |
+| 2 | **Ths. Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn* |
 
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2024 - Hồ Thị Khánh Hiền`
