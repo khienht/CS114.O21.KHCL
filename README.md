@@ -8,6 +8,12 @@
 <!-- Header -->
 <h1 align="center"><b>MACHINE LEARNING</b></h>
 
+## BẢNG MỤC LỤC
+* [Giới thiệu môn học](#giới-thiệu-môn-học)
+* [Thành viên nhóm](#thông-tin-sinh-viên)
+* [Đồ án cuối kỳ](#final-project)
+* [Bài tập WeCode](#wecode)
+
 <!-- Main -->
 # Thông tin sinh viên:
 | STT    | MSSV          | Họ và Tên              | Github                                                  | Email                   |
