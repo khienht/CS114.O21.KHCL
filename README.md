@@ -27,5 +27,8 @@
 | 1 | **PGS.TS. Lê Đình Duy** | *duyld@uit.edu.vn* |
 | 2 | **Ths. Phạm Nguyễn Trường An** | *truonganpn@uit.edu.vn* |
 
+## WECODE
+## FINAL PROJECT
+
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2024 - Hồ Thị Khánh Hiền`
