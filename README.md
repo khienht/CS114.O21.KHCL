@@ -6,11 +6,11 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"><b>MACHINE LEARNING</b></h>
+<h1 align="center"><b>CS114.O21.KHCL - MÁY HỌC - MACHINE LEARNING</b></h1>
 
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
-* [Thành viên nhóm](#thông-tin-sinh-viên)
+* [Thông tin sinh viên](#thông-tin-sinh-viên)
 * [Đồ án cuối kỳ](#final-project)
 * [Bài tập WeCode](#wecode)
 
