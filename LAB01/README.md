@@ -1,4 +1,4 @@
-## THÔNG TIN COLAB
+# THÔNG TIN COLAB
 
  - [x] **[BÀI TẬP LAB01 (03/04/2024)](CS114_O21_KHCL_DigitClassification.ipynb)** - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khienht/CS114.O21.KHCL/blob/main/LAB01/CS114_O21_KHCL_DigitClassification.ipynb)
 <!-- Main -->
